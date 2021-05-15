@@ -48,3 +48,5 @@ POST "/users" creates a user with the email and name specified in the request bo
 PUT "/users/:id" updates the user with the specified :id with the email and name specified in the request body
 
 DELETE "/users/:id" deletes the user with the specified :id
+
+followed https://blog.logrocket.com/nodejs-expressjs-postgresql-crud-rest-api-example/ 
